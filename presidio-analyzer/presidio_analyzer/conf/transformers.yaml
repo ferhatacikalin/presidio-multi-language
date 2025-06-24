@@ -9,7 +9,7 @@ models:
     lang_code: da
     model_name:
       spacy: da_core_news_lg
-      transformers: flair/ner-danish
+      transformers: saattrupdan/nbailab-base-ner-scandi
 
 ner_model_configuration:
   labels_to_ignore:
